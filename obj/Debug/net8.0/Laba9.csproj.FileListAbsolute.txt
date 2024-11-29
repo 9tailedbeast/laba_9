@@ -1,0 +1,14 @@
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.AssemblyInfoInputs.cache
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.AssemblyInfo.cs
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.csproj.CoreCompileInputs.cache
+C:\Users\polik\source\repos\Laba9\bin\Debug\net8.0\Laba9.exe
+C:\Users\polik\source\repos\Laba9\bin\Debug\net8.0\Laba9.deps.json
+C:\Users\polik\source\repos\Laba9\bin\Debug\net8.0\Laba9.runtimeconfig.json
+C:\Users\polik\source\repos\Laba9\bin\Debug\net8.0\Laba9.dll
+C:\Users\polik\source\repos\Laba9\bin\Debug\net8.0\Laba9.pdb
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.dll
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\refint\Laba9.dll
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.pdb
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\Laba9.genruntimeconfig.cache
+C:\Users\polik\source\repos\Laba9\obj\Debug\net8.0\ref\Laba9.dll
